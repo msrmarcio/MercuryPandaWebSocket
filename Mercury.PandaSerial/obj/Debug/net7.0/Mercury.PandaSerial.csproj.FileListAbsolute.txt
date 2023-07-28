@@ -1,0 +1,12 @@
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\bin\Debug\net7.0\Mercury.PandaSerial.deps.json
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\bin\Debug\net7.0\Mercury.PandaSerial.dll
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\bin\Debug\net7.0\Mercury.PandaSerial.pdb
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.csproj.AssemblyReference.cache
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.AssemblyInfoInputs.cache
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.AssemblyInfo.cs
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.csproj.CoreCompileInputs.cache
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.dll
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\refint\Mercury.PandaSerial.dll
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\Mercury.PandaSerial.pdb
+C:\Src\Mercury\Mercury.PandaSerial\Mercury.PandaSerial\obj\Debug\net7.0\ref\Mercury.PandaSerial.dll
