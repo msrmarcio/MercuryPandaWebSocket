@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\Mercury.PandaWebSocket.props" />
-</Project>
